@@ -3,3 +3,5 @@ I want this to go into commit.
 Again Lets change it.
 One more change to confirm 
 Hi How are you?
+Bug fix 
+bug fix
